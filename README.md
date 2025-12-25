@@ -1,2 +1,3 @@
 # LogManager
-FIrst Project
+
+This tool is used for managing logs.
